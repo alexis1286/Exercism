@@ -1,4 +1,5 @@
 Instructions for problem:
+
 https://exercism.org/tracks/cpp/exercises/ellens-alien-game/edit
 
 Introduction
